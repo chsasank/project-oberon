@@ -1,3 +1,11 @@
+## VOC
+
+https://github.com/vishaps/voc
+
+This seems to be the best.
+
+The following are oberon-7 compilers.
+
 ## OberonC
 
 Compiling and running oberon programs
@@ -25,7 +33,7 @@ Compiling and running oberon programs
     ```
 
 
-## OBNC - better so far
+## OBNC
 Second option:
 
 Ref: https://rsdoiel.github.io/blog/2020/04/11/Mostly-Oberon.html
@@ -33,3 +41,4 @@ Ref: https://rsdoiel.github.io/blog/2020/04/11/Mostly-Oberon.html
 1. Install compiler from here: https://miasap.se/obnc/
 2. obnc Hello.Mod
 3. ./Hello
+
